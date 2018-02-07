@@ -1,6 +1,6 @@
 
 /**
- * this is pkg name
+ * this is pkg name.
  *
 */
 
